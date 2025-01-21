@@ -45,41 +45,8 @@ Copy
 ├── reports/           # Generated analysis reports
 ├── requirements.txt   # Project dependencies
 └── README.md
-Setup and Installation
-Clone the repository:
-bash
 
-Copy
-git clone https://github.com/yourusername/axionray-quality-analytics.git
-cd axionray-quality-analytics
-Create and activate a virtual environment:
-bash
 
-Copy
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-Install dependencies:
-bash
-
-Copy
-pip install -r requirements.txt
-Usage
-Data Validation and Cleaning:
-bash
-
-Copy
-python src/cleaning/validate_data.py
-Data Integration:
-bash
-
-Copy
-python src/cleaning/integrate_data.py
-Exploratory Analysis:
-bash
-
-Copy
-python src/analysis/explore_data.py
-Deliverables
 Task 1:
 Cleaned and tagged records (CSV/Excel)
 Detailed analysis report
