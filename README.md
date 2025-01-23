@@ -29,39 +29,6 @@ Component failure analysis
 Stakeholder insights generation
 Project Structure
 
-Copy
-├── data/
-│   ├── raw/           # Original data files
-│   ├── processed/     # Cleaned and processed data
-│   └── final/         # Final merged datasets
-├── notebooks/
-│   ├── task1_data_validation.ipynb
-│   ├── task2_data_integration.ipynb
-│   └── task3_exploratory_analysis.ipynb
-├── src/
-│   ├── cleaning/      # Data cleaning scripts
-│   ├── analysis/      # Analysis scripts
-│   └── visualization/ # Visualization scripts
-├── reports/           # Generated analysis reports
-├── requirements.txt   # Project dependencies
-└── README.md
-
-
-Task 1:
-Cleaned and tagged records (CSV/Excel)
-Detailed analysis report
-Python scripts for data validation
-Tasks 2 & 3:
-Cleaned and merged dataset
-Analysis scripts
-Summary document with insights
-Technologies Used
-Python 3.8+
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
 
 
 
